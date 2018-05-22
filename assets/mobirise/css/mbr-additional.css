@@ -1572,11 +1572,6 @@ body {
     font-size: 20px !important;
   }
 }
-.cid-qSHtiRCS0g {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-qSHqN8oIYY {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1727,6 +1722,27 @@ body {
 .cid-qSHkh6zUvk blockquote {
   color: #767676;
 }
+.cid-qSMb2jxJE4 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qSMb2jxJE4 .image-block {
+  margin: auto;
+}
+.cid-qSMb2jxJE4 figcaption {
+  position: relative;
+}
+.cid-qSMb2jxJE4 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qSMb2jxJE4 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qSHmeIZL2G {
   background: #ffffff;
 }
@@ -1793,34 +1809,38 @@ body {
     width: 100% !important;
   }
 }
-.cid-qSHnwt9CRT {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-qSMaJtbcPc {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
 }
-.cid-qSHnwt9CRT .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-qSMaJtbcPc .image-block {
+  margin: auto;
 }
-.cid-qSHnwt9CRT .section-text {
-  padding: 2rem 0;
-  color: #232323;
+.cid-qSMaJtbcPc figcaption {
+  position: relative;
 }
-.cid-qSHnwt9CRT .inner-container {
-  margin: 0 auto;
+.cid-qSMaJtbcPc figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-qSHnwt9CRT .inner-container {
+  .cid-qSMaJtbcPc .image-block {
     width: 100% !important;
   }
 }
-.cid-qSHqaxv37v {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+.cid-qSM7ljjX4n {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qSM7ljjX4n .mbr-text,
+.cid-qSM7ljjX4n blockquote {
+  color: #767676;
+}
+.cid-qSM7ljjX4n .mbr-text {
+  text-align: center;
 }
 .cid-qSHoUqxm9r {
   padding-top: 90px;
@@ -1933,6 +1953,11 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qSMbGSa6Ky {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qSHqaxv37v {
   padding-top: 30px;
